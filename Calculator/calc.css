@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(44, 43, 43);
+}
+.container{
+    max-width: 30%;
+    background-color: rgb(44, 43, 43);
+    margin-left: 35%;
+}
+h1{
+    text-align:center;
+    color: white;
+    font-size: 40px;
+}
+.screen{
+    width: 150%;
+    background-color: rgb(147, 219, 106);
+    
+    height: 25px;
+}
+.clear{
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    width: 150%;
+    height: 35px;
+    margin-left: 220%;
+    padding: 15%;
+}
+.keys{
+    width: 100%;
+}
+.button{
+    width: 15%;
+    background-color: black;
+    color: white;
+    padding: 10%;
+    margin: 1% ;
+}
+.operator{
+    width: 15%;
+    background-color: black;
+    color: white;
+    padding: 10%;
+    margin: 1% ; 
+}
