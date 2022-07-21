@@ -1,0 +1,47 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/3e/f3/42/3ef342f1d708865a1c6bf38ac49ec5d7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: black;
+    padding:1%;
+    font-size: 20px;
+    margin-left: 40%;
+}
+.container{
+    background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); 
+  width: 50%;
+  margin-left: 25%;
+  align-items: center;
+  padding: 30px;
+  border-radius: 15px;
+
+}
+.fa-quote-left, .fa-quote-right{
+    font-size: 35px;
+    color: white;
+}
+.author{
+    font-size: 25px;
+    color: white;
+}
+.quote{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+hr{
+    border: 1px solid white;
+    
+}
+.container:hover{
+    box-shadow: 0 10px 10px rgb(0, 0, 0);
+}
